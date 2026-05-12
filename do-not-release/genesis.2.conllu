@@ -1,0 +1,1301 @@
+# sent_id = genesis.2.manual.1
+# text = Sîđoda im thuo te seliđon, habda im sundea giuuaraht bittra an is bruođar;
+1	Sîđoda	siđon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=gehen
+2	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Refl	1	obl	_	Gloss=er
+3	thuo	do	ADV	_	_	1	advmod	_	Gloss=nun
+4	te	te	ADP	_	_	5	case	_	Gloss=zu
+5	seliđon	seliđa	NOUN	_	Case=Dat|Number=Plur	1	obl	_	Gloss=Haus|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	habda	hebbian	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	Gloss=haben
+8	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Refl	10	obl	_	Gloss=er
+9	sundea	sundea	NOUN	_	Case=Acc|Number=Sing	10	obj	_	Gloss=Übeltat
+10	giuuaraht	giwirkian	VERB	_	VerbForm=Part	1	advcl	_	Gloss=tun
+11	bittra	bittar	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	xpos	_	Gloss=bitter
+12	an	an	ADP	_	_	14	case	_	Gloss=an
+13	is	he	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes	14	det	_	Gloss=er
+14	bruođar	brođar	NOUN	_	Case=Dat|Number=Sing	11	obl	_	Gloss=Bruder|SpaceAfter=No
+15	;	;	PUNCT	_	_	14	punct	_	_
+
+# sent_id = genesis.2.manual.2
+# text = liet ina undar baka liggian an ênam diapun dala drôruuôragana, lîƀas lôsan, legarbedd uuaran, guman an griata.
+1	liet	latan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=lassen
+2	ina	he	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Pers	1	obj	_	Gloss=er
+3	undar	undar	ADP	_	_	4	case	_	Gloss=unter
+4	baka	bak	NOUN	_	Case=Dat|Number=Sing	5	obl	_	Gloss=Rücken
+5	liggian	liggian	VERB	_	VerbForm=Inf	1	xpos	_	Gloss=liegen
+6	an	an	ADP	_	_	8	case	_	Gloss=in
+7	ênam	en	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Ind	8	det	_	Gloss=ein
+8	diapun	diop	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	Gloss=tief
+9	dala	dal	NOUN	_	Case=Dat|Number=Sing	5	obl	_	Gloss=Tal
+10	drôruuôragana	drorworag	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	Gloss=vom-Blutverlust-erschöpft|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	lîƀas	lif	NOUN	_	Case=Gen|Number=Sing	13	obl	_	Gloss=Leben
+13	lôsan	los	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	advmod	_	Gloss=los|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	legarbedd	legarbed	NOUN	_	Case=Acc|Number=Sing	16	obj	_	Gloss=Lagerstätte
+16	uuaran	waron	VERB	_	VerbForm=Inf	5	xpos	_	Gloss=hüten|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	guman	gumo	NOUN	_	Case=Acc|Number=Sing	1	appos	_	Gloss=Mann
+19	an	an	ADP	_	_	20	case	_	Gloss=an
+20	griata	griot	NOUN	_	Case=Dat|Number=Sing	18	nmod	_	Gloss=Boden|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = genesis.2.manual.3
+# text = Thuo sprak im god selƀo tuo, uualdand miđ is uuordun (uuas im uurêđ an is hugi, them banan gibolgan), frâgoda huuar he habdi is brôđar thuo, kindiungan guman.
+1	Thuo	do	ADV	_	_	2	advmod	_	Gloss=da
+2	sprak	sprekan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=sprechen
+3	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Pers	2	obl	_	Gloss=er
+4	god	god	PROPN	_	Case=Nom|Number=Sing	1	nsubj	_	Gloss=Gott
+5	selƀo	self	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	amod	_	Gloss=selbst
+6	tuo	to	ADV	_	_	2	advmod	_	Gloss=zu|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	uualdand	waldand	NOUN	_	Case=Nom|Number=Sing	4	appos	_	Gloss=Herrscher
+9	miđ	mid	ADP	_	_	11	case	_	Gloss=mit
+10	is	he	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes	11	det	_	Gloss=er
+11	uuordun	word	NOUN	_	Case=Dat|Number=Plur	8	nmod	_	Gloss=Wort
+12	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	uuas	wesan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	Gloss=sein
+14	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Pers	15	obl	_	Gloss=er
+15	uurêđ	wređ	ADJ	_	Degree=Pos	2	advcl	_	Gloss=zornig
+16	an	an	ADP	_	_	18	case	_	Gloss=in
+17	is	he	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes	18	det	_	Gloss=er
+18	hugi	hugi	NOUN	_	Case=Dat|Number=Sing	15	obl	_	Gloss=Sinn|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	them	the	DET	_	Case=Dat|Definiteness=Def|Gender=Masc|Number=Sing|PronType=Dem	21	det	_	Gloss=der
+21	banan	bano	NOUN	_	Case=Dat|Number=Sing	22	obl	_	Gloss=Mörder
+22	gibolgan	belgan	VERB	_	VerbForm=Part	15	xpos	_	Gloss=zürnen|SpaceAfter=No
+23	)	)	PUNCT	_	_	22	punct	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	23	punct	_	_
+25	frâgoda	fragon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=fragen
+26	huuar	hwar	ADV	_	PronType=Int	28	advmod	_	Gloss=wo
+27	he	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	28	nsubj	_	Gloss=er
+28	habdi	hebbian	AUX	_	Mood=Sbj|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	ccomp	_	Gloss=haben
+29	is	he	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes	30	det	_	Gloss=er
+30	brôđar	brođar	NOUN	_	Case=Acc|Number=Sing	28	obj	_	Gloss=Bruder
+31	thuo	do	ADV	_	_	28	advmod	_	Gloss=da|SpaceAfter=No
+32	,	,	PUNCT	_	_	31	punct	_	_
+33	kindiungan	kindjung	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	Gloss=jung
+34	guman	gumo	NOUN	_	Case=Acc|Number=Sing	30	appos	_	Gloss=Mann|SpaceAfter=No
+35	.	.	PUNCT	_	_	34	punct	_	_
+
+# sent_id = genesis.2.manual.4
+# text = Thô sprak im eft Kain angegen - - habda im miđ is handun haramuuerek mikil uuamdâdiun giuuaraht, thius uuerold uuas sô suîđo besmitin an sundiun - -:
+1	Thô	do	ADV	_	_	2	advmod	_	Gloss= da
+2	sprak	sprekan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=sprechen
+3	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Pers	2	obl	_	Gloss=er
+4	eft	eft	ADV	_	_	2	advmod	_	Gloss=darauf
+5	Kain	Kain	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	Gloss=Kain
+6	angegen	angegin	ADV	_	_	2	advmod	_	Gloss=entgegen
+7	-	-	PUNCT	_	_	6	punct	_	_
+8	-	-	PUNCT	_	_	7	punct	_	_
+9	habda	hebbian	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	17	aux	_	Gloss=haben
+10	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Pers	17	obl	_	Gloss=er
+11	miđ	mid	ADP	_	_	13	case	_	Gloss=mit
+12	is	he	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes	13	det	_	Gloss=er
+13	handun	hand	NOUN	_	Case=Dat|Number=Plur	17	obl	_	Gloss=Hand
+14	haramuuerek	harmwerk	NOUN	_	Case=Acc|Number=Sing	17	obj	_	Gloss=böse-Tat
+15	mikil	mikil	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	Gloss=groß
+16	uuamdâdiun	wamdad	NOUN	_	Case=Dat|Number=Plur	17	obl	_	Gloss=Übeltat
+17	giuuaraht	giwirkian	VERB	_	VerbForm=Part	2	ccomp	_	Gloss=tun|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	thius	thesa	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	20	det	_	Gloss=dieser
+20	uuerold	werold	NOUN	_	Case=Nom|Number=Sing	24	nsubj	_	Gloss=Welt
+21	uuas	wesan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	aux	_	Gloss=sein
+22	sô	so	ADV	_	_	23	advmod	_	Gloss= so
+23	suîđo	swiđo	ADV	_	_	24	advmod	_	Gloss=sehr
+24	besmitin	bismitan	VERB	_	VerbForm=Part	17	conj	_	Gloss= beflecken
+25	an	an	ADP	_	_	26	case	_	Gloss= zu
+26	sundiun	sundea	NOUN	_	Case=Dat|Number=Plur	24	obl	_	Gloss=Übeltat
+27	-	-	PUNCT	_	_	26	punct	_	_
+28	-	-	PUNCT	_	_	27	punct	_	SpaceAfter=No
+29	:	:	PUNCT	_	_	28	punct	_	_
+
+# sent_id = genesis.2.manual.5
+# text = Ni ik thes sorogun ni scal, quađ he,
+1	Ni	ne	PART	_	_	4	advmod	_	Gloss=nicht
+2	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	4	nsubj	_	Gloss=ich
+3	thes	the	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	4	obl	_	Gloss=der
+4	sorogun	sorgon	VERB	_	VerbForm=Inf	9	ccomp	_	Gloss=Sorge-tragen
+5	ni	ne	PART	_	_	4	advmod	_	Gloss=nicht
+6	scal	skulan	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=sollen|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+9	quađ	queđan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=sprechen
+10	he	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	9	nsubj	_	Gloss=er|SpaceAfter=No
+11	,	,	PUNCT	_	_	11	punct	_	_
+
+# sent_id = genesis.2.manual.6
+# text = Uuânde he suîđo, that he bihelan mahti hêrran sînum, thia dâdi bidernian.
+1	Uuânde	wanian	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=glauben
+2	he	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	1	nsubj	_	Gloss=er
+3	suîđo	swiđo	ADV	_	_	1	advmod	_	Gloss=sehr|SpaceAfter=No
+4	,	,	PUNCT	_	_	4	punct	_	_
+5	that	that	SCONJ	_	_	7	mark	_	Gloss=dass
+6	he	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	7	nsubj	_	Gloss=er
+7	bihelan	bihelan	VERB	_	VerbForm=Inf	2	ccomp	_	Gloss=verbergen
+8	mahti	mugan	AUX	_	Mood=Sbj|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux	_	Gloss=vermögen
+9	hêrran	herro	NOUN	_	Case=Dat|Number=Sing	7	obl	_	Gloss=Herr
+10	sînum	sin	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes	9	det	_	Gloss=sein|SpaceAfter=No
+11	,	,	PUNCT	_	_	11	punct	_	_
+12	thia	the	DET	_	Case=Acc|Definiteness=Def|Gender=Fem|Number=Plur|PronType=Dem	13	det	_	Gloss=der
+13	dâdi	dad	NOUN	_	Case=Acc|Number=Plur	14	obj	_	Gloss=Tat
+14	bidernian	bidernian	VERB	_	VerbForm=Inf	7	xpos	_	Gloss=verbergen|SpaceAfter=No
+15	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = genesis.2.manual.7
+# text = Thuo sprak im eft ûsa drohtin tuo:
+1	Thuo	do	ADV	_	_	2	advmod	_	Gloss=da
+2	sprak	sprekan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=sprechen
+3	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Pers	2	obl	_	Gloss=er
+4	eft	eft	ADV	_	_	2	advmod	_	Gloss=wieder
+5	ûsa	usa	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes	6	det	_	Gloss=unser
+6	drohtin	drohtin	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	Gloss=Herr
+7	tuo	to	ADV	_	_	2	advmod	_	Gloss=zu|SpaceAfter=No
+8	:	:	PUNCT	_	_	7	punct	_	_
+
+# sent_id = genesis.2.manual.8
+# text = All haƀas thu sô giuuerekot, quađ he, sô thi ti thînaro uueroldi mag uuesan thîn hugi hriuuuig, thes thu miđ thînum handon gidedos, that thu uuurđi thînes bruođar bano:
+1	All	all	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	5	obj	_	Gloss=all
+2	haƀas	hebbian	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	Gloss=haben
+3	thu	thu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	5	nsubj	_	Gloss=du
+4	sô	so	ADV	_	_	5	advmod	_	Gloss=so
+5	giuuerekot	giwerkon	VERB	_	VerbForm=Part	7	ccomp	_	Gloss=tun|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	quađ	queđan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=sprechen
+8	he	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	7	nsubj	_	Gloss=er|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	sô	so	SCONJ	_	_	19	mark	_	Gloss=daß
+11	thi	thu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Pers	19	obl	_	Gloss=du
+12	ti	te	ADP	_	_	14	case	_	Gloss=zu
+13	thînaro	din	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes	14	det	_	Gloss=dein
+14	uueroldi	werold	NOUN	_	Case=Dat|Number=Sing	19	obl	_	Gloss=Welt
+15	mag	mugan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	Gloss=können
+16	uuesan	wesan	AUX	_	VerbForm=Inf	19	cop	_	Gloss=sein
+17	thîn	din	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes	18	det	_	Gloss=dein
+18	hugi	hugi	NOUN	_	Case=Nom|Number=Sing	19	nsubj	_	Gloss=Sinn
+19	hriuuuig	hriuwig	ADJ	_	Degree=Pos	7	ccomp	_	Gloss=betrübt|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	thes	thes	SCONJ	_	_	26	mark	_	Gloss=dafür-daß
+22	thu	thu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	26	nsubj	_	Gloss=du
+23	miđ	mid	ADP	_	_	25	case	_	Gloss=mit
+24	thînum	din	DET	_	Case=Dat|Gender=Fem|Number=Plur|Poss=Yes	25	det	_	Gloss=dein
+25	handon	hand	NOUN	_	Case=Dat|Number=Plur	26	obl	_	Gloss=Hand
+26	gidedos	gidon	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	19	advcl	_	Gloss=tun|SpaceAfter=No
+27	,	,	PUNCT	_	_	26	punct	_	_
+28	that	that	SCONJ	_	_	30	mark	_	Gloss=sodass
+29	thu	thu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	30	nsubj	_	Gloss=du
+30	uuurđi	werđan	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	26	advcl	_	Gloss=werden
+31	thînes	din	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes	33	det	_	Gloss=dein
+32	bruođar	brođar	NOUN	_	Case=Gen|Number=Sing	33	nmod	_	Gloss=Bruder
+33	bano	bano	NOUN	_	Case=Nom|Number=Sing	30	xcomp	_	Gloss=Mörder|SpaceAfter=No
+34	:	:	PUNCT	_	_	33	punct	_	_
+
+# sent_id = genesis.2.manual.9
+# text = nu he bluodig ligit, uuundun uuôrig;
+1	nu	nu	ADV	_	_	4	admov	_	Gloss=nun
+2	he	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	4	nsubj	_	Gloss=er
+3	bluodig	blodag	ADV	_	Degree=Pos	4	advmod	_	Gloss=blutig
+4	ligit	liggian	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=liegen|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	uuundun	wunda	NOUN	_	Case=Dat|Number=Plur	7	obl	_	Gloss=Wunde
+7	uuôrig	worig	ADJ	_	Degree=Pos	4	xcomp	_	Gloss=entkräftet|SpaceAfter=No
+8	;	;	PUNCT	_	_	7	punct	_	_
+
+# sent_id = genesis.2.manual.10
+# text = thes ni habda he êniga geuuuruhte te thi, sundea gisuohta, thoh thu ina nu aslagan hebbias, dôdan giduanan.
+1	thes	the	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	Gloss=der
+2	ni	ne	PART	_	_	3	advmod	_	Gloss=nicht
+3	habda	hebbian	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=haben
+4	he	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	3	nsubj	_	Gloss=er
+5	êniga	enig	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	6	amod	_	Gloss=irgendein
+6	geuuuruhte	giwurht	NOUN	_	Case=Acc|Number=Plur	3	obj	_	Gloss=Tat
+7	te	te	ADP	_	_	8	case	_	Gloss=zu
+8	thi	thu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Pers	3	obl	_	Gloss=du|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	sundea	sundea	NOUN	_	Case=Acc|Number=Sing	11	obj	_	Gloss=Übeltat
+11	gisuohta	sokian	VERB	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	3	xpos	_	Gloss=abfordern|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	thoh	thoh	SCONJ	_	_	17	mark	_	Gloss=dennoch
+14	thu	thu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	17	nsubj	_	Gloss=du
+15	ina	he	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Pers	17	obj	_	Gloss=er
+16	nu	nu	ADV	_	_	17	advmod	_	Gloss=nun
+17	aslagan	aslahan	VERB	_	VerbForm=Part	3	advcl	_	Gloss=erschlagen
+18	hebbias	hebbian	AUX	_	Mood=Sbj|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	aux	_	Gloss=haben|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	dôdan	dod	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	21	obj	_	Gloss=tot
+21	giduanan	gidon	VERB	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	17	xpos	_	Gloss=tun|SpaceAfter=No
+22	.	,	PUNCT	_	_	21	punct	_	_
+
+# sent_id = genesis.2.manual.11
+# text = Is drôr sinkit nu an erda, suêt sundar ligit;
+1	Is	he	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes	2	det	_	Gloss=er
+2	drôr	dror	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	Gloss=das-aus-Wunden-fließende-Blut
+3	sinkit	sinkan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=sinken
+4	nu	nu	ADV	_	_	3	nsubj	_	Gloss=nun
+5	an	an	ADP	_	_	6	case	_	Gloss=in
+6	erda	erđa	NOUN	_	Case=Acc|Number=Sing	3	obl	_	Gloss=Erde|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	suêt	swet	NOUN	_	Case=Nom|Number=Sing	10	nsubj	_	Gloss=Blut
+9	sundar	sundar	ADV	_	_	10	advmod	_	Gloss=abgesondert
+10	ligit	liggian	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	Gloss=liegen|SpaceAfter=No
+11	;	;	PUNCT	_	_	10	punct	_	_
+
+# sent_id = genesis.2.manual.12
+# text = thiu seola huaroƀat, thie gêst giâmarmuod an godas uuillean;
+1	thiu	the	DET	_	Case=Nom|Definiteness=Def|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	Gloss=der
+2	seola	seola	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	Gloss=Seele
+3	huaroƀat	hwarbon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=wandeln|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	thie	the	DET	_	Case=Nom|Definiteness=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	Gloss=der
+6	gêst	gest	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	Gloss=Geist
+7	giâmarmuod	jamarmod	ADJ	_	Degree=Pos	3	xpos	_	Gloss=betrübt
+8	an	an	ADP	_	_	10	case	_	Gloss=in
+9	godas	god	PROPN	_	Case=Gen|Number=Sing	10	nmod	_	Gloss=Gott
+10	uuillean	willio	NOUN	_	Case=Acc|Number=Sing	7	obl	_	Gloss= Wille|SpaceAfter=No
+11	;	;	PUNCT	_	_	10	punct	_	_
+
+# sent_id = genesis.2.manual.13
+# text = drôr hruopit is te drohtina selƀun endi sagat hue thea dâdi frumida, that mên an thesun middilgardun:
+1	drôr	dror	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	Gloss=das-aus-Wunden-fließende-Blut
+2	hruopit	hropan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=rufen
+3	is	he	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes	2	obl	_	Gloss=er
+4	te	te	ADP	_	_	5	case	_	Gloss=zu
+5	drohtina	drohtin	NOUN	_	Case=Dat|Number=Sing	2	obl	_	Gloss=Herr
+6	selƀun	self	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	Gloss=selbst
+7	endi	endi	CCONJ	_	_	8	cc	_	Gloss=und
+8	sagat	seggian	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	Gloss=sagen
+9	hue	hwe	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	12	nsubj	_	Gloss=wer
+10	thea	the	DET	_	Case=Acc|Definiteness=Def|Gender=Fem|Number=Plur|PronType=Dem	11	det	_	Gloss=der
+11	dâdi	dad	NOUN	_	Case=Acc|Number=Plur	12	obj	_	Gloss=Tat
+12	frumida	frummian	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	ccomp	_	Gloss=ausführen|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	that	the	DET	_	Case=Acc|Definiteness=Def|Gender=Neut|Number=Sing|PronType=Dem	15	det	_	Gloss=der
+15	mên	men	NOUN	_	Case=Acc|Number=Sing	11	appos	_	Gloss=Frevel
+16	an	an	ADP	_	_	18	case	_	Gloss=an
+17	thesun	thesa	DET	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Dem	18	det	_	Gloss=dieser
+18	middilgardun	middilgarda	NOUN	_	Case=Dat|Number=Sing	15	nmod	_	Gloss=Erde|SpaceAfter=No
+19	:	:	PUNCT	_	_	18	punct	_	_
+
+# sent_id = genesis.2.manual.14
+# text = ni mag im ênig mann than suîđor uuero faruuirikian an uueroldrîkea an bittron balodâdion, than thu an thînun bruođar haƀas firinuuerek gifremid.
+1	ni	ne	PART	_	_	9	advmod	_	Gloss=nicht
+2	mag	mugan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	Gloss=können
+3	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Refl	9	obl	_	Gloss=er
+4	ênig	enig	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	Gloss=irgend-ein(er)
+5	mann	mann	NOUN	_	Case=Nom|Number=Sing	9	nsubl	_	Gloss=Mensch
+6	than	than	ADV	_	_	9	advmod	_	Gloss=in-Negativsätzen-in-Verbindung-mit-dem-Komparativ
+7	suîđor	swiđo	ADV	_	Degree=Comp	9	advmod	_	Gloss=sehr
+8	uuero	wer	NOUN	_	Case=Gen|Number=Plur	9	obl	_	Gloss=Mann
+9	faruuirikian	farwirkian	VERB	_	VerbForm=Inf	0	root	_	Gloss=sich-versündigen
+10	an	an	ADP	_	_	11	case	_	Gloss=in
+11	uueroldrîkea	weroldriki	NOUN	_	Case=Dat|Number=Sing	9	obl	_	Gloss=Weltreich
+12	an	an	ADP	_	_	13	case	_	Gloss=in
+13	bittron	bittar	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	13	amod	_	Gloss=bitter
+14	balodâdion	baludad	NOUN	_	Case=Dat|Number=Plur	9	obl	_	Gloss=Sünde|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	than	than	SCONJ	_	_	23	mark	_	Gloss=als
+17	thu	thu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	23	nsubj	_	Gloss=du
+18	an	an	ADP	_	_	20	case	_	Gloss=an
+19	thînun	din	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes	20	det	_	Gloss=dein
+20	bruođar	brođar	NOUN	_	Case=Dat|Number=Sing	23	obl	_	Gloss=Bruder
+21	haƀas	hebbian	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	23	aux	_	Gloss=haben
+22	firinuuerek	firinwerk	NOUN	_	Case=Acc|Number=Plur	23	obj	_	Gloss=Freveltat
+23	gifremid	fremmian	VERB	_	VerbForm=Part	9	advcl	_	Gloss=vollbringen|SpaceAfter=No
+24	.	.	PUNCT	_	_	23	root	_	_
+
+# sent_id = genesis.2.manual.15
+# text = Thuo an forahtun uuarđ Kain aftar them quidiun drohtinas, quađ that hie uuisse garoo, that is ni mahti uuerđan uualdand uuiht, an uueroldstundu dâdeo bidernid,
+1	Thuo	do	ADV	_	_	4	advmod	_	Gloss=nun
+2	an	an	ADP	_	_	3	case	_	Gloss=in
+3	forahtun	forhta	NOUN	_	Case=Dat|Number=Plur	4	obl	_	Gloss=Furcht
+4	uuarđ	werđan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=werden
+5	Kain	Kain	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	Gloss=Kain
+6	aftar	aftar	ADP	_	_	8	case	_	Gloss=nach
+7	them	the	DET	_	Case=Dat|Definiteness=Def|Gender=Masc|Number=Plur|PronType=Dem	8	det	_	Gloss=der
+8	quidiun	quidi	NOUN	_	Case=Dat|Number=Plur	4	obl	_	Gloss=Rede
+9	drohtinas	drohtin	NOUN	_	Case=Gen|Number=Sing	8	nmod	_	Gloss=Herr|SpaceAfter=No
+10	,	,	PUNCT	_	_	10	punct	_	_
+11	quađ	queđan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	Gloss=sprechen
+12	that	that	SCONJ	_	_	14	mark	_	Gloss=daß
+13	hie	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	14	nsubj	_	Gloss=er
+14	uuisse	witan	VERB	_	Mood=Sbj|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	ccomp	_	Gloss=wissen
+15	garoo	garo	ADV	_	_	14	advmod	_	Gloss=ganz-und-gar|SpaceAfter=No
+16	,	,	PUNCT	_	_	16	punct	_	_
+17	that	that	SCONJ	_	_	28	mark	_	Gloss=daß
+18	is	he	PRON	_	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Pers	28	obl	_	Gloss=er
+19	ni	ne	PART	_	_	28	advmod	_	Gloss=nicht
+20	mahti	mugan	AUX	_	Mood=Sbj|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	aux	_	Gloss=vermögen
+21	uuerđan	werđan	AUX	_	VerbForm=Inf	28	aux	_	Gloss=werden
+22	uualdand	waldand	NOUN	_	Case=Dat|Number=Sing	28	obl	_	Gloss=Herrscher
+23	uuiht	wiht	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	28	nsubj	_	Gloss=Ding;etwas|SpaceAfter=No
+24	,	,	PUNCT	_	_	24	punct	_	_
+25	an	an	ADP	_	_	26	case	_	Gloss=in
+26	uueroldstundu	weroldstunda	NOUN	_	Case=Dat|Number=Sing	28	obl	_	Gloss=Zeit-in-der-Welt
+27	dâdeo	dad	NOUN	_	Case=Gen|Number=Plur	26	nmod	_	Gloss=Tat
+28	bidernid	bidernian	VERB	_	VerbForm=Part	14	ccomp	_	Gloss=verbergen|SpaceAfter=No
+29	,	,	PUNCT	_	_	29	punct	_	_
+
+# sent_id = genesis.2.manual.16
+# text = sô ik is nu mag drûbundian hugi, quađ he, beran an mînun breostun, thes ik mînan bruođar sluog thuru mîn handmegin.
+1	sô	so	ADV	_	_	12	advmod	_	Gloss=so
+2	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	12	nsubj	_	Gloss=ich
+3	is	he	PRON	_	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Pers	12	obl	_	Gloss=er
+4	nu	nu	ADV	_	_	12	advmod	_	Gloss=nun
+5	mag	mugan	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	Gloss=können
+6	drûbundian	drubon	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Ger	7	amod	_	Gloss=betrübt
+7	hugi	hugi	NOUN	_	Case=Acc|Number=Sing	12	obj	_	Gloss=Gemüt|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	quađ	queđan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=sprechen
+10	he	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	9	nsubj	_	Gloss=er|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	beran	beran	VERB	_	VerbForm=Inf	9	ccomp	_	Gloss=tragen
+13	an	an	ADP	_	_	15	case	_	Gloss=in
+14	mînun	min	DET	_	Case=Dat|Gender=Neut|Number=Plur|Poss=Yes	15	det	_	Gloss=mein
+15	breostun	briost	NOUN	_	Case=Dat|Number=Plur	12	obl	_	Gloss=im-Innern|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	thes	thes	DET	_	_	21	mark	_	Gloss=dafür-daß
+18	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	21	nsubj	_	Gloss=ich
+19	mînan	min	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes	20	det	_	Gloss=mein
+20	bruođar	brođar	NOUN	_	Case=Acc|Number=Sing	21	obj	_	Gloss=Bruder
+21	sluog	slahan	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	12	ccomp	_	Gloss=erschlagen
+22	thuru	thurh	ADP	_	_	24	case	_	Gloss=durch
+23	mîn	min	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes	24	det	_	Gloss=mein
+24	handmegin	handmagan	NOUN	_	Case=Acc|Number=Sing	21	obl	_	Gloss=Kraft-der-Hände|SpaceAfter=No
+25	.	*	PUNCT	_	_	24	punct	_	_
+
+# sent_id = genesis.2.manual.17
+# text = Nu uuêt ik, that ik scal an thînum heti libbian, forđ an thînun fîundscepi, nu ik mi thesa firina gideda, sô mi mina sundia nu suîđaron thunkiat, misdâd mera, than thîn mildi hugi, sô ik thes nu uuirđig ni bium, uualdand thie guodo, that thu mi alâtas lêdas thingas, tianono atuemeas.
+1	Nu	nu	ADV	_	_	2	advmod	_	Gloss=nun
+2	uuêt	witan	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=wissen
+3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	2	nsubj	_	Gloss=ich|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	that	that	SCONJ	_	_	11	mark	_	Gloss=daß
+6	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	11	nsubj	_	Gloss=ich
+7	scal	skulan	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	Gloss=sollen
+8	an	an	ADP	_	_	10	case	_	Gloss=in
+9	thînum	din	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes	10	det	_	Gloss=dein
+10	heti	heti	NOUN	_	Case=Dat|Number=Sing	11	obl	_	Gloss=Feindschaft
+11	libbian	libbian	VERB	_	VerbForm=Inf	2	ccomp	_	Gloss=leben|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	forđ	forđ	ADV	_	_	16	orphan	_	Gloss=fortan
+14	an	an	ADP	_	_	16	case	_	Gloss=in
+15	thînun	din	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes	16	det	_	Gloss=dein
+16	fîundscepi	fiundskepi	NOUN	_	Case=Dat|Number=Sing	10	appos	_	Gloss=Feindschaft|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	nu	nu	SCONJ	_	_	23	mark	_	Gloss=da-nun
+19	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	23	nsubj	_	Gloss=ich
+20	mi	ik	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Refl	23	obl	_	Gloss=ich
+21	thesa	thesa	DET	_	Case=Acc|Definiteness=Def|Gender=Fem|Number=Sing|PronType=Dem	22	det	_	Gloss=dieser
+22	firina	firina	NOUN	_	Case=Acc|Number=Sing	23	obj	_	Gloss=böse-Tat
+23	gideda	gidon	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	11	advcl	_	Gloss=tun|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	punct	_	_
+25	sô	so	SCONJ	_	_	31	mark	_	Gloss=da
+26	mi	ik	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Pers	31	obl	_	Gloss=ich
+27	mina	min	DET	_	Case=Nom|Gender=Fem|Number=Plur|Poss=Yes	28	det	_	Gloss=mein
+28	sundia	sundea	NOUN	_	Case=Nom|Number=Plur	31	nsubj	_	Gloss=Übeltat
+29	nu	nu	ADV	_	_	31	advmod	_	Gloss=nun
+30	suîđaron	swiđ	ADJ	_	Case=Nom|Degree=Comp|Gender=Fem|Number=Plur	31	xcomp	_	Gloss=kräftig
+31	thunkiat	thunkian	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	Gloss=dünken|SpaceAfter=No
+32	,	,	PUNCT	_	_	31	punct	_	_
+33	misdâd	misdad	NOUN	_	Case=Nom|Number=Sing	28	appos	_	Gloss=Missetat
+34	mera	mero	ADJ	_	Case=Nom|Degree=Comp|Gender=Fem|Number=Sing	33	amod	_	Gloss=größer|SpaceAfter=No
+35	,	,	PUNCT	_	_	34	punct	_	_
+36	than	than	SCONJ	_	_	39	mark	_	Gloss=als
+37	thîn	din	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes	39	det	_	Gloss=dein
+38	mildi	mildi	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	39	amod	_	Gloss=freundlich
+39	hugi	hugi	NOUN	_	Case=Nom|Number=Sing	34	xcomp	_	Gloss=Sinn|SpaceAfter=No
+40	,	,	PUNCT	_	_	39	punct	_	_
+41	sô	so	ADV	_	_	45	advmod	_	Gloss=so
+42	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	45	nsubj	_	Gloss=ich
+43	thes	the	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	45	obl	_	Gloss= der
+44	nu	nu	ADV	_	_	45	advmod	_	Gloss=nun
+45	uuirđig	wirđig	ADJ	_	Degree=Pos	34	advcl	_	Gloss=wert
+46	ni	ne	PART	_	_	45	advmod	_	Gloss=nicht
+47	bium	wesan	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	45	cop	_	Gloss=sein|SpaceAfter=No
+48	,	,	PUNCT	_	_	47	punct	_	_
+49	uualdand	waldand	NOUN	_	Case=Nom|Number=Sing	45	voc	_	Gloss=Herrscher
+50	thie	the	DET	_	Case=Nom|Definiteness=Def|Gender=Masc|Number=Sing|PronType=Dem	51	det	_	Gloss=der
+51	guodo	god	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	49	appos	_	Gloss=gut|SpaceAfter=No
+52	,	,	PUNCT	_	_	51	punct	_	_
+53	that	that	SCONJ	_	_	56	mark	_	Gloss=daß
+54	thu	thu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	56	nsubj	_	Gloss=du
+55	mi	ik	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Pers	56	obl	_	Gloss=ich
+56	alâtas	alatan	VERB	_	Mood=Sbj|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	45	ccomp	_	Gloss=erlassen
+57	lêdas	leđ	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	58	amod	_	Gloss=feindlich
+58	thingas	ding	NOUN	_	Case=Gen|Number=Sing	56	obl	_	Gloss=Sache|SpaceAfter=No
+59	,	,	PUNCT	_	_	58	punct	_	_
+60	tianono	tiono	NOUN	_	Case=Gen|Number=Plur	61	obl	_	Gloss=Übeltat
+61	atuemeas	atomian	VERB	_	Mood=Sbj|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	56	xcomp	_	Gloss=befreien|SpaceAfter=No
+62	.	.	PUNCT	_	_	61	punct	_	_
+
+# sent_id = genesis.2.manual.18
+# text = Nu ik ni uuelda mîna triuuua haldan, hugi uuiđ them thînum hluttrom muoda, nu uuêt ik, that ik hier ni mag êniga huîla libbian, huand mi antuuirikit, sô huuat sô mi an thisun uuega findit, aslehit mi bi thesun sundeun.
+1	Nu	nu	SCONJ	_	_	7	mark	_	Gloss=da
+2	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	7	nsubj	_	Gloss=ich
+3	ni	ne	PART	_	_	7	advmod	_	Gloss=nicht
+4	uuelda	willian	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	7	aux	_	Gloss=wollen
+5	mîna	min	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes	6	det	_	Gloss=mein
+6	triuuua	treuwa	NOUN	_	Case=Acc|Number=Sing	7	obj	_	Gloss=Treue
+7	haldan	haldan	VERB	_	VerbForm=Inf	17	advcl	_	Gloss=an-etwas-festhalten|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	hugi	hugi	NOUN	_	Case=Acc|Number=Sing	17	obj	_	Gloss=Gemüt
+10	uuiđ	wiđ	ADP	_	_	14	case	_	Gloss=gegen
+11	them	the	DET	_	Case=Dat|Definiteness=Def|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	Gloss=der
+12	thînum	din	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes	14	det	_	Gloss=dein
+13	hluttrom	hluttar	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	Gloss=lauter
+14	muoda	mod	NOUN	_	Case=Dat|Number=Sing	17	obl	_	Gloss=Sinn|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	nu	nu	ADV	_	_	17	advmod	_	Gloss=nun
+17	uuêt	witan	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=wissen
+18	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	17	nsubj	_	Gloss=ich|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	that	that	SCONJ	_	_	27	mark	_	Gloss=daß
+21	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	27	nsubj	_	Gloss=ich
+22	hier	her	ADV	_	_	27	advmod	_	Gloss=hier
+23	ni	ne	PART	_	_	27	advmod	_	Gloss=nicht
+24	mag	magan	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	27	aux	_	Gloss=können
+25	êniga	enig	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	26	det	_	Gloss=irgend-ein(er)
+26	huîla	hwila	NOUN	_	Case=Acc|Number=Sing	27	obj	_	Gloss=Zeit
+27	libbian	libbian	VERB	_	VerbForm=Inf	17	ccomp	_	Gloss=leben|SpaceAfter=No
+28	,	,	PUNCT	_	_	27	punct	_	_
+29	huand	hwand	SCONJ	_	_	31	mark	_	Gloss=weil
+30	mi	ik	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Pers	31	obj	_	Gloss=ich
+31	antuuirikit	antwirkian	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	advcl	_	Gloss=umbringen|SpaceAfter=No
+32	,	,	PUNCT	_	_	31	punct	_	_
+33	sô	_	ADV	_	_	34	flat	_	Gloss= jeder-der
+34	huuat	so+hwe+so	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	31	nsubj	_	Gloss= jeder-der
+35	sô	_	SCONJ	_	_	34	flat	_	Gloss= jeder-der
+36	mi	ik	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Pers	40	obj	_	Gloss=ich
+37	an	an	ADP	_	_	39	case	_	Gloss=an
+38	thisun	thesa	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	39	det	_	Gloss=dieser
+39	uuega	weg	NOUN	_	Case=Dat|Number=Sing	40	obl	_	Gloss=Weg
+40	findit	findan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	acl	_	Gloss=finden|SpaceAfter=No
+41	,	,	PUNCT	_	_	40	punct	_	_
+42	aslehit	aslahan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	xcomp	_	Gloss=erschlagen
+43	mi	ik	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Pers	42	obj	_	Gloss=ich
+44	bi	bi	ADP	_	_	46	case	_	Gloss=wegen
+45	thesun	thesa	DET	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Dem	46	det	_	Gloss=dieser
+46	sundeun	sundea	NOUN	_	Case=Dat|Number=Plur	42	obl	_	Gloss=Übeltat|SpaceAfter=No
+47	.	.	PUNCT	_	_	46	punct	_	_
+
+# sent_id = genesis.2.manual.19
+# text = Thuo sprak im eft selƀo angegin heƀanes uualdand:
+1	Thuo	do	ADV	_	_	2	advmod	_	Gloss=nun
+2	sprak	sprekan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=sprechen
+3	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Pers	2	obl	_	Gloss=er
+4	eft	eft	ADV	_	_	2	advmod	_	Gloss=wieder
+5	selƀo	self	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Gloss=selbst
+6	angegin	angegin	ADV	_	_	2	advmod	_	Gloss=entgegen
+7	heƀanes	heban	NOUN	_	Case=Gen|Number=Sing	8	nmod	_	Gloss=Himmel
+8	uualdand	waldand	NOUN	_	Case=Nom|Number=Sing	5	appos	_	Gloss=Herrscher|SpaceAfter=No
+9	:	:	PUNCT	_	_	9	punct	_	_
+
+# sent_id = genesis.2.manual.20
+# text = Hier scalt thu noh nu, quađ he, libbian an thesun lande lango huîla.
+1	Hier	her	ADV	_	_	10	advmod	_	Gloss=hier
+2	scalt	skulan	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	aux	_	Gloss=sollen
+3	thu	thu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	10	nsubj	_	Gloss=du
+4	noh	noh	ADV	_	_	10	advmod	_	Gloss=noch
+5	nu	nu	ADV	_	_	10	advmod	_	Gloss=nun|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	quađ	queđan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=sprechen
+8	he	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	7	nsubj	_	Gloss=er|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	libbian	libbian	VERB	_	VerbForm=Inf	7	ccomp	_	Gloss=leben
+11	an	an	ADP	_	_	13	case	_	Gloss=an
+12	thesun	thesa	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	13	det	_	Gloss=dieser
+13	lande	land	NOUN	_	Case=Dat|Number=Sing	10	obl	_	Gloss=Land
+14	lango	lang	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	15	amod	_	Gloss=lang
+15	huîla	hwila	NOUN	_	Case=Acc|Number=Plur	10	obl	_	Gloss=Zeit|SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = genesis.2.manual.21
+# text = Thoh thu sus alêđit sîs, mid firinum bifangan, thoh uuill ik thi friðu settean, tôgean sulic têkean, sô thu an treuuua maht uuesan an thesero uuerolde, thoh thu is uuirđic ni sîs:
+1	Thoh	thoh	SCONJ	_	_	4	mark	_	Gloss=obwohl
+2	thu	thu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	4	nsubj	_	Gloss=du
+3	sus	sus	ADV	_	_	4	advmod	_	Gloss=so
+4	alêđit	aleđian	VERB	_	VerbForm=Part	16	advcl	_	Gloss=verleiden
+5	sîs	wesan	AUX	_	Mood=Sbj|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=sein|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	mid	mid	ADP	_	_	8	case	_	Gloss=mit
+8	firinum	firina	NOUN	_	Case=Dat|Number=Plur	9	obl	_	Gloss=böse-Tat
+9	bifangan	bifahan	VERB	_	VerbForm=Part	4	xcomp	_	Gloss=umfangen|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	thoh	thoh	ADV	_	_	16	advmod	_	Gloss=doch
+12	uuill	willian	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	aux	_	Gloss=wollen
+13	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	16	nsubj	_	Gloss=ich
+14	thi	thu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Pers	16	obl	_	Gloss=du
+15	friðu	friđu	NOUN	_	Case=Acc|Number=Sing	16	obj	_	Gloss=Friede
+16	settean	settian	VERB	_	VerbForm=Inf	0	root	_	Gloss=setzen|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	tôgean	togian	VERB	_	VerbForm=Inf	16	conj	_	Gloss=vor-Augen-stellen
+19	sulic	sulik	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	20	det	_	Gloss=solch
+20	têkean	tekan	NOUN	_	Case=Acc|Number=Plur	18	obj	_	Gloss=Zeichen|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	sô	so	SCONJ	_	_	25	mark	_	Gloss=sodass
+23	thu	thu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	25	nsubj	_	Gloss=du
+24	an	an	ADP	_	_	25	case	_	Gloss=in
+25	treuuua	treuwa	NOUN	_	Case=Dat|Number=Sing	18	advcl	_	Gloss=Treue
+26	maht	mugan	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	25	aux	_	Gloss=können
+27	uuesan	wesan	AUX	_	VerbForm=Inf	25	cop	_	Gloss=sein
+28	an	an	ADP	_	_	30	case	_	Gloss=in
+29	thesero	thesa	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	30	det	_	Gloss=dieser
+30	uuerolde	werold	NOUN	_	Case=Dat|Number=Sing	25	obl	_	Gloss=Welt|SpaceAfter=No
+31	,	,	PUNCT	_	_	30	punct	_	_
+32	thoh	thoh	SCONJ	_	_	35	mark	_	Gloss=obwohl
+33	thu	thu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	35	nsubj	_	Gloss=du
+34	is	he	PRON	_	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Pers	35	obl	_	Gloss= er
+35	uuirđic	wirđig	ADJ	_	Degree=Pos	25	advcl	_	Gloss=wert
+36	ni	ne	PART	_	_	35	advmod	_	Gloss=nicht
+37	sîs	wesan	AUX	_	Mood=Sbj|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	35	cop	_	Gloss=sein|SpaceAfter=No
+38	:	:	PUNCT	_	_	37	punct	_	_
+
+# sent_id = genesis.2.manual.22
+# text = fluhtik scalt thu thoh endi frêđig forđuuardas nu libbean an thesum landa, sô lang so thu thit liaht uuaros;
+1	fluhtik	fluhtig	ADJ	_	Degree=Pos	9	xcomp	_	Gloss=flüchtig
+2	scalt	skulan	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	cop	_	Gloss=sollen
+3	thu	thu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	9	nsubj	_	Gloss=du
+4	thoh	thoh	ADV	_	_	9	advmod	_	Gloss=dennoch
+5	endi	endi	CCONJ	_	_	6	cc	_	Gloss=und
+6	frêđig	fređig	ADJ	_	Degree=Pos	1	conj	_	Gloss=verbannt
+7	forđuuardas	forđwardes	ADV	_	_	9	advmod	_	Gloss=weiter
+8	nu	nu	ADV	_	_	9	advmod	_	Gloss=nun
+9	libbean	libbian	VERB	_	VerbForm=Inf	0	root	_	Gloss=leben
+10	an	an	ADP	_	_	12	case	_	Gloss=in
+11	thesum	thesa	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	12	det	_	Gloss=dieser
+12	landa	land	NOUN	_	Case=Dat|Number=Sing	9	obl	_	Gloss=Land|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	sô	so+lango+so	ADV	_	_	20	mark	_	Gloss= so-lange-wie
+15	lang	_	ADV	_	_	14	flat	_	_
+16	so	_	SCONJ	_	_	14	flat	_	_
+17	thu	thu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	20	nsubj	_	Gloss=du
+18	thit	thesa	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	19	det	_	Gloss=dieser
+19	liaht	lioht	NOUN	_	Case=Acc|Number=Sing	20	obj	_	Gloss=Himmelreich
+20	uuaros	waron	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	_	Gloss=hüten|SpaceAfter=No
+21	;	;	PUNCT	_	_	20	punct	_	_
+
+# sent_id = genesis.2.manual.23
+# text = forhuâtan sculun thi hluttra liudi, thu ni salt io furður cuman te thînes hêrron sprâko, uueslean thar mid uuordon thînon:
+1	forhuâtan	forhwatan	VERB	_	VerbForm=Inf	0	root	_	Gloss=verfluchen
+2	sculun	skulan	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	Gloss=sollen
+3	thi	thu	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Pers	1	obj	_	Gloss=du
+4	hluttra	hluttar	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	Gloss=lauter
+5	liudi	liudi	NOUN	_	Case=Nom|Number=Plur	1	nsubj	_	Gloss=Leute|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	thu	thu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	12	nsubj	_	Gloss=du
+8	ni	ne	PART	_	_	12	advmod	_	Gloss=nicht
+9	salt	skulan	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	aux	_	Gloss=sollen
+10	io	io	ADV	_	_	12	advmod	_	Gloss=zu-irgend-einer-Zeit
+11	furður	furđor	ADV	_	_	12	advmod	_	Gloss=fortan
+12	cuman	kuman	VERB	_	VerbForm=Inf	1	conj	_	Gloss=kommen
+13	te	te	ADP	_	_	16	case	_	Gloss=zu
+14	thînes	din	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes	15	det	_	Gloss=dein
+15	hêrron	herro	NOUN	_	Case=Gen|Number=Sing	16	nmod	_	Gloss=Herr
+16	sprâko	spraka	NOUN	_	Case=Dat|Number=Sing	12	obl	_	Gloss=Unterredung|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	uueslean	wehslian	VERB	_	VerbForm=Inf	12	xcomp	_	Gloss=(Worte)-wechseln
+19	thar	thar	ADV	_	_	18	advmod	_	Gloss=da
+20	mid	mid	ADP	_	_	21	case	_	Gloss=mit
+21	uuordon	word	NOUN	_	Case=Dat|Number=Plur	18	obl	_	Gloss=Wort
+22	thînon	din	DET	_	Case=Dat|Gender=Neut|Number=Plur|Poss=Yes	21	det	_	Gloss=dein|SpaceAfter=No
+23	:	:	PUNCT	_	_	22	punct	_	_
+
+# sent_id = genesis.2.manual.24
+# text = uuallandi stêt thînes brôđor uurâca bitter an helli.
+1	uuallandi	wallan	VERB	_	VerbForm=Ger	2	xcomp	_	Gloss=wallen
+2	stêt	stan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=stehen
+3	thînes	din	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes	4	det	_	Gloss=dein
+4	brôđor	brođar	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	Gloss=Bruder
+5	uurâca	wraka	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	Gloss=Rache
+6	bitter	bittar	ADJ	_	Degree=Pos	2	xcomp	_	Gloss=bitter
+7	an	an	ADP	_	_	8	case	_	Gloss=in
+8	helli	hel	NOUN	_	Case=Dat|Number=Sing	2	obl	_	Gloss=Hölle|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	root	_	_
+
+# sent_id = genesis.2.manual.25
+# text = Thô geng im thanan miđ grimmo hugi, habda ina god selƀo suîđo farsakanan.
+1	Thô	do	ADV	_	_	2	advmod	_	Gloss= nun
+2	geng	gangan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=gehen
+3	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Refl	2	obl	_	Gloss=er
+4	thanan	thanan	ADV	_	_	2	advmod	_	Gloss=von-dannen
+5	miđ	mid	ADP	_	_	7	case	_	Gloss=mit
+6	grimmo	grim	ADJ	_	Case=Inst|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	Gloss=grimmig
+7	hugi	hugi	NOUN	_	Case=Inst|Number=Sing	2	obl	_	Gloss=Sinn|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	habda	hebbian	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	Gloss=haben
+10	ina	he	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Pers	14	obj	_	Gloss=er
+11	god	god	PROPN	_	Case=Nom|Number=Sing	14	nsubj	_	Gloss=Gott
+12	selƀo	self	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	14	advmod	_	Gloss=selbst
+13	suîđo	swiđo	ADV	_	_	14	advmod	_	Gloss=sehr
+14	farsakanan	farsakan	VERB	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	2	conj	_	Gloss=sich-abwenden|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = genesis.2.manual.26
+# text = Soroga uuarđ thar thuo gikûđit Âdama endi Êuun, inuuidd mikil, iro kindes qualm, that he ni muosta quik libbian.
+1	Soroga	soraga	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	Gloss=Sorge
+2	uuarđ	werđan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	Gloss= werden
+3	thar	thar	ADV	_	_	5	advmod	_	Gloss=da
+4	thuo	do	ADV	_	_	5	advmod	_	Gloss=nun
+5	gikûđit	gikuđian	VERB	_	VerbForm=Part	0	root	_	Gloss=bekannt-machen
+6	Âdama	Adam	PROPN	_	Case=Dat|Number=Sing	5	obl	_	Gloss=Adam
+7	endi	endi	CCONJ	_	_	8	cc	_	Gloss=und
+8	Êuun	Eva	PROPN	_	Case=Dat|Number=Sing	6	conj	_	Gloss=Eva|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	inuuidd	inwid	NOUN	_	Case=Nom|Number=Sing	1	appos	_	Gloss=Feindseligkeit
+11	mikil	mikil	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	Gloss=groß|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	iro	he	DET	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes	15	det	_	Gloss=er
+14	kindes	kind	NOUN	_	Case=Gen|Number=Sing	15	nmod	_	Gloss=Kind
+15	qualm	qualm	NOUN	_	Case=Nom|Number=Sing	10	appos	_	Gloss=Tod|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	that	that	SCONJ	_	_	22	mark	_	Gloss=daß
+18	he	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	22	nsubj	_	Gloss=er
+19	ni	ne	PART	_	_	22	advmod	_	Gloss=nicht
+20	muosta	motan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	aux	_	Gloss=können
+21	quik	quik	ADJ	_	Degree=Pos	22	xcomp	_	Gloss=lebend
+22	libbian	libbian	VERB	_	VerbForm=Inf	15	acl	_	Gloss=leben|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	punct	_	_
+
+# sent_id = genesis.2.manual.27
+# text = Thes uuarđ Âdamas hugi innan breostun suîđo an sorogun, thuo he uuissa is sunu dôdan:
+1	Thes	the	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	2	obl	_	Gloss=der
+2	uuarđ	werđan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=werden
+3	Âdamas	Adam	PROPN	_	Case=Gen|Number=Sing	4	nmod	_	Gloss=Adam
+4	hugi	hugi	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	Gloss=Gemüt
+5	innan	innan	ADP	_	_	6	case	_	Gloss=in
+6	breostun	briost	NOUN	_	Case=Dat|Number=Plur	2	obl	_	Gloss=im-Innern
+7	suîđo	swiđo	ADV	_	_	2	advmod	_	Gloss=sehr
+8	an	an	ADP	_	_	9	case	_	Gloss=in
+9	sorogun	soraga	NOUN	_	Case=Dat|Number=Plur	2	obl	_	Gloss=Sorge|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	thuo	tho	SCONJ	_	_	13	mark	_	Gloss=da
+12	he	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	13	nsubj	_	Gloss=er
+13	uuissa	witan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	advcl	_	Gloss=wissen
+14	is	he	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes	15	det	_	Gloss=er
+15	sunu	sunu	NOUN	_	Case=Acc|Number=Sing	16	obj	_	Gloss=Sohn
+16	dôdan	dod	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	xcomp	_	Gloss=tot|SpaceAfter=No
+17	:	:	PUNCT	_	_	16	punct	_	_
+
+# sent_id = genesis.2.manual.28
+# text = sô uuarđ is ôk thiu muodar, the thana magu fuodda, barn bi iro breostun.
+1	sô	so	ADV	_	_	2	advmod	_	Gloss= so
+2	uuarđ	werđan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=werden
+3	is	he	PRON	_	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Pers	2	obl	_	Gloss=er
+4	ôk	ok	ADV	_	_	2	advmod	_	Gloss=auch
+5	thiu	the	DET	_	Case=Nom|Definiteness=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	Gloss=der
+6	muodar	modar	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	Gloss=Mutter|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	the	the	SCONJ	_	_	11	mark	_	Gloss=der
+9	thana	the	DET	_	Case=Acc|Definiteness=Def|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	Gloss=der
+10	magu	magu	NOUN	_	Case=Acc|Number=Sing	11	obj	_	Gloss=Sohn
+11	fuodda	fodian	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl	_	Gloss=ernähren|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	barn	barn	NOUN	_	Case=Acc|Number=Sing	10	appos	_	Gloss=Kind
+14	bi	bi	ADP	_	_	16	case	_	Gloss=an
+15	iro	he	DET	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes	16	det	_	Gloss=er
+16	breostun	briost	NOUN	_	Case=Dat|Number=Plur	13	orphan	_	Gloss=Brust|SpaceAfter=No
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = genesis.2.manual.29
+# text = Thuo siu bluodag uuuosk hrêugiuuâdi, thuo warđ iro hugi sêrag.
+1	Thuo	tho	SCONJ	_	_	4	mark	_	Gloss=da
+2	siu	he	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Pers	4	nsubj	_	Gloss=er
+3	bluodag	blodag	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	Gloss=blutig
+4	uuuosk	waskan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	Gloss=waschen
+5	hrêugiuuâdi	hreogiwadi	NOUN	_	Case=Acc|Number=Sing	4	obj	_	Gloss=Leichenbekleidung|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	thuo	tho	ADV	_	_	11	advmod	_	Gloss=da
+8	warđ	werđan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	Gloss=werden
+9	iro	he	DET	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes	10	det	_	Gloss=er
+10	hugi	hugi	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	Gloss=Gemüt
+11	sêrag	serag	ADJ	_	Degree=Pos	0	root	_	Gloss=traurig|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = genesis.2.manual.30
+# text = Bêđo uuas im thô an sorogun iac iro barnas dôd, thes heliðas hinfard, iac that im miđ is handun fordeda Kain an sulicun qualma:
+1	Bêđo	beđie	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Ind	6	nsubl	_	Gloss=beide
+2	uuas	wesan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	Gloss=sein
+3	im	he	PRON	_	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Pers	6	obl	_	Gloss=er
+4	thô	do	ADV	_	_	6	advmod	_	Gloss= da
+5	an	an	ADP	_	_	6	case	_	Gloss=in
+6	sorogun	soraga	NOUN	_	Case=Dat|Number=Plur	0	root	_	Gloss=Kummer
+7	iac	jak	CCONJ	_	_	10	cc	_	Gloss=und
+8	iro	he	DET	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes	9	det	_	Gloss=er
+9	barnas	barn	NOUN	_	Case=Gen|Number=Sing	10	nmod	_	Gloss=Kind
+10	dôd	dođ	NOUN	_	Case=Nom|Number=Sing	6	conj	_	Gloss=Tod|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	thes	the	DET	_	Case=Gen|Definiteness=Def|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	Gloss=der
+13	heliðas	heliđ	NOUN	_	Case=Gen|Number=Sing	14	nmod	_	Gloss=Held
+14	hinfard	hinfard	NOUN	_	Case=Nom|Number=Sing	10	appos	_	Gloss=Hingang|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	iac	jak	CCONJ	_	_	22	cc	_	Gloss=und
+17	that	that	SCONJ	_	_	22	mark	_	Gloss=dass
+18	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Refl	22	obl	_	Gloss=er
+19	miđ	mid	ADP	_	_	21	case	_	Gloss=mit
+20	is	he	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes	21	det	_	Gloss=er
+21	handun	hand	NOUN	_	Case=Dat|Number=Plur	22	obl	_	Gloss=Hand
+22	fordeda	fardon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	Gloss=frevelhaft-handeln
+23	Kain	Kain	PROPN	_	Case=Nom|Number=Sing	22	nsubj	_	Gloss=Kain
+24	an	an	ADP	_	_	26	case	_	Gloss=mit
+25	sulicun	sulik	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	26	det	_	Gloss=solch
+26	qualma	qualm	NOUN	_	Case=Dat|Number=Sing	22	obl	_	Gloss=Mord|SpaceAfter=No
+27	:	:	PUNCT	_	_	26	punct	_	_
+
+# sent_id = genesis.2.manual.31
+# text = siu ni habdun thuo noh kindo than mêr libbendero an them liahta, botan thana ênna, thie thuo alêđit uuas uualdanda be is faruuurohtiun:
+1	siu	he	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Pers	9	obj	_	Gloss=er
+2	ni	ne	PART	_	_	9	advmod	_	Gloss=nicht
+3	habdun	hebbian	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	Gloss=haben
+4	thuo	do	ADV	_	_	9	advmod	_	Gloss=damals
+5	noh	noh	ADV	_	_	9	advmod	_	Gloss=noch
+6	kindo	kind	NOUN	_	Case=Gen|Number=Plur	9	obl	_	Gloss=Kind
+7	than	than	ADV	_	_	9	advmod	_	Gloss=in-Negativsätzen-in-Verbindung-mit-dem-Komparativ
+8	mêr	mer	ADV	_	_	9	advmod	_	Gloss=mehr
+9	libbendero	libbian	VERB	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Ger	0	root	_	Gloss=leben
+10	an	an	ADP	_	_	12	case	_	Gloss=in
+11	them	the	DET	_	Case=Dat|Definiteness=Def|Gender=Neut|Number=Sing|PronType=Dem	12	det	_	Gloss=der
+12	liahta	lioht	NOUN	_	Case=Dat|Number=Sing	9	obl	_	Gloss=Himmelreich|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	botan	biutan	CCONJ	_	_	16	cc	_	Gloss=ausgenommen
+15	thana	the	DET	_	Case=Acc|Definiteness=Def|Gender=Masc|Number=Sing|PronType=Dem	16	det	_	Gloss=der
+16	ênna	en	NUM	_	Case=Acc|Gender=Masc|Number=Sing	9	advcl	_	Gloss=ein|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	thie	the	PRON	_	Case=Nom|Definiteness=Def|Gender=Masc|Number=Sing|PronType=Dem	20	nsubj	_	Gloss=der
+19	thuo	tho	ADV	_	_	20	advmod	_	Gloss=nun
+20	alêđit	aleđian	VERB	_	VerbForm=Part	16	acl	_	Gloss=verleiden
+21	uuas	wesan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	aux	_	Gloss=sein
+22	uualdanda	waldand	NOUN	_	Case=Dat|Number=Sing	20	obl	_	Gloss=Herrscher
+23	be	bi	ADP	_	_	25	case	_	Gloss=bei
+24	is	he	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes	25	det	_	Gloss=er
+25	faruuurohtiun	farwurht	NOUN	_	Case=Dat|Number=Plur	20	obl	_	Gloss=Übeltat|SpaceAfter=No
+26	:	:	PUNCT	_	_	25	punct	_	_
+
+# sent_id = genesis.2.manual.32
+# text = thar ni habdun siu êniga uuunnia tuo niudlîco ginuman, huuand hie sulican nîd afhuof, that he uuarđ is bruođar bano.
+1	thar	thar	ADV	_	_	9	advmod	_	Gloss=da
+2	ni	ne	PART	_	_	9	advmod	_	Gloss=nicht
+3	habdun	hebbian	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	Gloss=haben
+4	siu	he	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Pers	9	nsubj	_	Gloss=er
+5	êniga	enig	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	6	det	_	Gloss=irgend-ein
+6	uuunnia	wunnia	NOUN	_	Case=Acc|Number=Sing	9	obj	_	Gloss=Wonne
+7	tuo	to	ADV	_	_	8	advmod	_	Gloss=zu
+8	niudlîco	niudliko	ADV	_	_	9	advmod	_	Gloss=angelegentlich
+9	ginuman	niman	VERB	_	VerbForm=Part	0	root	_	Gloss=annehmen|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	huuand	hwand	SCONJ	_	_	15	mark	_	Gloss=weil
+12	hie	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	15	nsubj	_	Gloss=er
+13	sulican	sulik	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	Gloss=solch
+14	nîd	niđ	NOUN	_	Case=Acc|Number=Sing	15	obj	_	Gloss=Haß
+15	afhuof	afhebbian	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	advcl	_	Gloss=beginnen|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	that	that	SCONJ	_	_	22	mark	_	Gloss=dass
+18	he	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	22	nsubj	_	Gloss=er
+19	uuarđ	werđan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	aux	_	Gloss=werden
+20	is	he	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes	21	det	_	Gloss=er
+21	bruođar	brođar	NOUN	_	Case=Gen|Number=Sing	22	nmod	_	Gloss=Bruder
+22	bano	bano	NOUN	_	Case=Nom|Number=Sing	15	advcl	_	Gloss=Mörder|SpaceAfter=No
+23	.	.	PUNCT	_	_	22	punct	_	_
+
+# sent_id = genesis.2.manual.33
+# text = Thes im thuo bêôiun uuarđ, sinhîun tuêm sêr umbi herta.
+1	Thes	the	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	9	obl	_	Gloss=der
+2	im	he	PRON	_	Case=Dat|Gender=Neut|Number=Plur|Person=3|PronType=Pers	9	obl	_	Gloss=er
+3	thuo	do	ADV	_	_	9	advmod	_	Gloss=da
+4	bêôiun	beđie	PRON	_	Case=Dat|Gender=Neut|Number=Plur|PronType=Ind	9	obj	_	Gloss=beide
+5	uuarđ	werđan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	Gloss=werden|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	sinhîun	sinhiwun	NOUN	_	Case=Dat|Number=Plur	4	appos	_	Gloss=Ehegatten
+8	tuêm	twene	NUM	_	Case=Dat|Gender=Neut|Number=Plur	7	nummod	_	Gloss=zwei
+9	sêr	ser	NOUN	_	Case=Nom|Number=Sing	0	root	_	Gloss=Schmerz
+10	umbi	umbi	ADP	_	_	10	case	_	Gloss=um-–-herum
+11	herta	herta	NOUN	_	Case=Acc|Number=Sing	9	obl	_	Gloss=Herz|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = genesis.2.manual.34
+# text = Oft siu thes gornunde an griata gistuodun, sinhîun samad, quâđun, that sia uuissin, that im that iro sundia gidedin, that im ni muostin aftar ereƀiuuardos, thegnos thîhan.
+1	Oft	oft	ADV	_	_	7	advmod	_	Gloss=oft
+2	siu	he	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Pers	7	obj	_	Gloss=er
+3	thes	the	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	7	obl	_	Gloss=der
+4	gornunde	gornon	VERB	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Ger	7	xcomp	_	Gloss=trauern
+5	an	an	ADP	_	_	6	case	_	Gloss=in,an
+6	griata	griot	NOUN	_	Case=Dat|Number=Sing	7	obl	_	Gloss=Boden
+7	gistuodun	gistandan	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=stehen|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	sinhîun	sinhiwun	NOUN	_	Case=Nom|Number=Plur	12	nsubj	_	Gloss=Ehegatten
+10	samad	samad	ADV	_	_	12	advmod	_	Gloss=zusammen|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	quâđun	queđan	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	Gloss=sprechen|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	that	that	SCONJ	_	_	16	mark	_	Gloss=daß
+15	sia	he	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Pers	16	nsubj	_	Gloss=er
+16	uuissin	witan	VERB	_	Mood=Sbj|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	ccomp	_	Gloss=wissen|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	that	that	SCONJ	_	_	23	mark	_	Gloss=daß
+19	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Pers	23	obl	_	Gloss=er
+20	that	the	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	23	obj	_	Gloss=der
+21	iro	he	DET	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes	22	det	_	Gloss=er
+22	sundia	sundea	NOUN	_	Case=Nom|Number=Plur	23	nsubj	_	Gloss=Übeltat
+23	gidedin	gidon	VERB	_	Mood=Sbj|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	ccomp	_	Gloss=tun|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	punct	_	_
+25	that	that	SCONJ	_	_	33	mark	_	Gloss=daß
+26	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Pers	33	nsubj	_	Gloss=er
+27	ni	ne	PART	_	_	33	advmod	_	Gloss=nicht
+28	muostin	motan	AUX	_	Mood=Sbj|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	33	aux	_	Gloss=können
+29	aftar	aftar	ADV	_	_	33	advmod	_	Gloss=nachher
+30	ereƀiuuardos	erbiward	NOUN	_	Case=Nom|Number=Plur	33	nsubj	_	Gloss=der-Erbe|SpaceAfter=No
+31	,	,	PUNCT	_	_	30	punct	_	_
+32	thegnos	thegan	NOUN	_	Case=Nom|Number=Plur	30	appos	_	Gloss=Knabe
+33	thîhan	thihan	VERB	_	VerbForm=Inf	23	acl	_	Gloss=gedeihen|SpaceAfter=No
+34	.	.	PUNCT	_	_	33	punct	_	_
+
+# sent_id = genesis.2.manual.35
+# text = Tholodun siu bêðiu mikila morđquâla, unt+that im eft mahtig god, hêr heƀanes uuard iro hugi buotta, that im uurðun ôdana ereƀiuuardos, thegnos endi thiornun, thigun aftar uuel, uuôhsun uuânlîko, geuuitt lînodun, spâha sprâka.
+1	Tholodun	tholon	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=erdulden
+2	siu	he	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Pers	1	nsubj	_	Gloss=er
+3	bêðiu	beđie	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Ind	2	det	_	Gloss=beide
+4	mikila	mikil	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	Gloss=groß
+5	morđquâla	morđquala	NOUN	_	Case=Acc|Number=Sing	1	obj	_	Gloss=tödliche-Qual|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	unt+that	untthat	SCONJ	_	_	17	mark	_	Gloss=bis-dass
+8	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Pers	17	obl	_	Gloss=er
+9	eft	eft	ADV	_	_	17	advmod	_	Gloss=wieder
+10	mahtig	mahtig	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	Gloss=mächtig
+11	god	god	PROPN	_	Case=Nom|Number=Sing	17	nsubj	_	Gloss=Gott|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	hêr	her	NOUN	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	appos	_	Gloss=hehr
+14	heƀanes	heban	NOUN	_	Case=Gen|Number=Sing	13	nmod	_	Gloss=Himmel
+15	uuard	werđan	AUX	_	Case=Nom|Number=Sing	17	aux	_	Gloss=Wart
+16	iro	he	DET	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes	17	det	_	Gloss=er
+17	hugi	hugi	NOUN	_	Case=Acc|Number=Sing	17	obj	_	Gloss=Gemüt
+18	buotta	botian	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	Gloss=heilen|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	that	that	SCONJ	_	_	22	mark	_	Gloss=daß
+21	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Pers	22	obl	_	Gloss=er
+22	uurðun	werđan	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	advcl	_	Gloss=werden
+23	ôdana	odan	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	22	xcomp	_	Gloss=beschert
+24	ereƀiuuardos	erbiward	NOUN	_	Case=Nom|Number=Plur	23	nsubj	_	Gloss=der-Erbe|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	punct	_	_
+26	thegnos	thegan	NOUN	_	Case=Nom|Number=Plur	24	appos	_	Gloss=Knabe
+27	endi	endi	CCONJ	_	_	28	cc	_	Gloss=und
+28	thiornun	diorna	NOUN	_	Case=Nom|Number=Plur	26	conj	_	Gloss=Mädchen|SpaceAfter=No
+29	,	,	PUNCT	_	_	28	punct	_	_
+30	thigun	dihan	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	22	conj	_	Gloss=gedeihen
+31	aftar	aftar	ADV	_	_	30	advmod	_	Gloss=nachher
+32	uuel	wel	ADV	_	_	30	advmod	_	Gloss=wohl|SpaceAfter=No
+33	,	,	PUNCT	_	_	32	punct	_	_
+34	uuôhsun	wahsan	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	30	conj	_	Gloss=wachsen
+35	uuânlîko	wanliko	ADV	_	_	34	advmod	_	Gloss=schön|SpaceAfter=No
+36	,	,	PUNCT	_	_	35	punct	_	_
+37	geuuitt	giwit	NOUN	_	Case=Acc|Number=Sing	38	obj	_	Gloss=Weisheit
+38	lînodun	linon	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	34	conj	_	Gloss=lernen|SpaceAfter=No
+39	,	,	PUNCT	_	_	38	punct	_	_
+40	spâha	spahi	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	41	amod	_	Gloss=klug
+41	sprâka	spraka	NOUN	_	Case=Acc|Number=Sing	37	appos	_	Gloss=Rede|SpaceAfter=No
+42	.	.	PUNCT	_	_	41	punct	_	_
+
+# sent_id = genesis.2.manual.36
+# text = Spuodda thie mahta is handgiuuerek, hêlag drohtin, that im uuarđ sunu giboran;
+1	Spuodda	spodian	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=fördern
+2	thie	the	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	Gloss=der
+3	mahta	mugan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	xcomp	_	Gloss=vermögen
+4	is	he	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	det	_	Gloss=er
+5	handgiuuerek	handgiwerk	NOUN	_	Case=Acc|Number=Sing	3	obj	_	Gloss=das-Werk-der-Hände|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	hêlag	helag	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	Gloss=heilig
+8	drohtin	drohtin	NOUN	_	Case=Nom|Number=Sing	2	appos	_	Gloss=Herr|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	that	that	SCONJ	_	_	14	mark	_	Gloss=daß
+11	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Pers	14	obl	_	Gloss=er
+12	uuarđ	werđan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	Gloss=werden
+13	sunu	sunu	NOUN	_	Case=Nom|Number=Sing	14	nsubj	_	Gloss=Sohn
+14	giboran	giberan	VERB	_	VerbForm=Part	1	advcl	_	Gloss=gebären|SpaceAfter=No
+15	;	;	PUNCT	_	_	14	punct	_	_
+
+# sent_id = genesis.2.manual.37
+# text = them scuopun siu Seð te naman uuârom uuordum:
+1	them	the	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	2	obl	_	Gloss=der
+2	scuopun	skeppian	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=bestimmen
+3	siu	he	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Pers	2	obj	_	Gloss=er
+4	Seð	Seđ	PROPN	_	Case=Acc|Number=Sing	2	obj	_	Gloss=Seth
+5	te	te	ADP	_	_	6	case	_	Gloss=zu
+6	naman	namo	NOUN	_	Case=Dat|Number=Sing	2	obl	_	Gloss=Name
+7	uuârom	war	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	8	amod	_	Gloss=wahr
+8	uuordum	word	NOUN	_	Case=Dat|Number=Plur	6	appos	_	Gloss=Wort|SpaceAfter=No
+9	:	:	PUNCT	_	_	8	punct	_	_
+
+# sent_id = genesis.2.manual.38
+# text = them uuastom lêh heƀanas uualdand endi hugi guodan, gamlîcan gang - he uuas goda uuirðig -, mildi uuas hie im an is muoda, sô thana is manno uuel, thie io mið sulicaro huldi muot hêrron thionun.
+1	them	the	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	Gloss=der
+2	uuastom	wastom	NOUN	_	Case=Acc|Number=Sing	3	obj	_	Gloss=das-Wachsen
+3	lêh	lihan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=verleihen
+4	heƀanas	heban	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	Gloss=Himmel
+5	uualdand	waldand	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	Gloss=Herrscher
+6	endi	endi	CCONJ	_	_	7	cc	_	Gloss=und
+7	hugi	hugi	NOUN	_	Case=Acc|Number=Sing	2	conj	_	Gloss=Gemüt
+8	guodan	god	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amos	_	Gloss=gut|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	gamlîcan	gamlik	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	Gloss=freudig
+11	gang	gang	NOUN	_	Case=Acc|Number=Sing	7	appos	_	Gloss=Ergehen
+12	-	-	PUNCT	_	_	11	punct	_	_
+13	he	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	15	nsubj	_	Gloss=er
+14	uuas	wesan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	cop	_	Gloss=sein
+15	goda	god	PROPN	_	Case=Dat|Number=Sing	15	obl	_	Gloss=Gott
+16	uuirðig	wirđig	ADJ	_	Degree=Pos	3	conj	_	Gloss=teuer
+17	-	-	PUNCT	_	_	16	punct	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	mildi	mildi	ADJ	_	Degree=Pos	16	conj	_	Gloss=freundlich
+20	uuas	wesan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	_	Gloss=sein
+21	hie	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	19	nsubj	_	Gloss=er
+22	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Refl	19	obl	_	Gloss=er
+23	an	an	ADP	_	_	25	case	_	Gloss=in
+24	is	he	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes	25	det	_	Gloss=er
+25	muoda	mod	NOUN	_	Case=Dat|Number=Sing	19	obl	_	Gloss=Sinn|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	punct	_	_
+27	sô	so	ADV	_	_	31	advmod	_	Gloss=so
+28	thana	the	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	31	obj	_	Gloss=der
+29	is	wesan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	Gloss=sein
+30	manno	mann	NOUN	_	Case=Gen|Number=Plur	31	nmod	_	Gloss=Mensch
+31	uuel	wel	ADV	_	_	19	conj	_	Gloss=wohl|SpaceAfter=No
+32	,	,	PUNCT	_	_	31	punct	_	_
+33	thie	the	PRON	_	Case=Nom|Definiteness=Def|Gender=Masc|Number=Sing|PronType=Dem	40	nsubj	_	Gloss=der
+34	io	io	ADV	_	_	40	advmod	_	Gloss=je
+35	mið	mid	ADP	_	_	37	case	_	Gloss=mit
+36	sulicaro	sulik	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	37	det	_	Gloss=solch
+37	huldi	huldi	NOUN	_	Case=Dat|Number=Sing	40	obl	_	Gloss=Ergebenheit
+38	muot	motan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	aux	_	Gloss=können
+39	hêrron	herro	NOUN	_	Case=Dat|Number=Sing	40	obl	_	Gloss=Herr
+40	thionun	thionon	VERB	_	VerbForm=Inf	31	acl	_	Gloss=dienen|SpaceAfter=No
+41	.	.	PUNCT	_	_	40	punct	_	_
+
+# sent_id = genesis.2.manual.39
+# text = Hie loboda thuo mêst liodio barnun, godas huldi gumun;
+1	Hie	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	2	nsubj	_	Gloss=er
+2	loboda	lobon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=loben
+3	thuo	do	ADV	_	_	2	advmod	_	Gloss=damals
+4	mêst	mest	ADV	_	_	2	admod	_	Gloss=am-meisten
+5	liodio	liudi	NOUN	_	Case=Gen|Number=Plur	6	nmod	_	Gloss=Leute
+6	barnun	barn	NOUN	_	Case=Dat|Number=Plur	2	obl	_	Gloss=Kind|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	godas	god	PROPN	_	Case=Gen|Number=Sing	9	nmod	_	Gloss=Gott
+9	huldi	huldi	NOUN	_	Case=Acc|Number=Sing	2	obj	_	Gloss=Huld
+10	gumun	gumo	NOUN	_	Case=Nom|Number=Plur	2	nsubj	_	Gloss=Mann|SpaceAfter=No
+11	;	;	PUNCT	_	_	10	punct	_	_
+
+# sent_id = genesis.2.manual.40
+# text = thanan quâmun guoda mann, uuordun uuîsa, geuuitt lînodun, thegnos githâhte endi thigun aftar uuel.
+1	thanan	thanan	ADV	_	_	2	advmod	_	Gloss=daher
+2	quâmun	kuman	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=kommen
+3	guoda	god	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	amod	_	Gloss=gut
+4	mann	mann	NOUN	_	Case=Nom|Number=Plur	2	nsubj	_	Gloss=Mann|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	uuordun	word	NOUN	_	Case=Dat|Number=Plur	2	obl	_	Gloss=Wort
+7	uuîsa	wis	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	4	appos	_	Gloss=weise|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	geuuitt	giwit	NOUN	_	Case=Acc|Number=Sing	10	obj	_	Gloss=Verstand
+10	lînodun	linon	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=lernen|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	thegnos	thegan	NOUN	_	Case=Nom|Number=Plur	10	nsubj	_	Gloss=Knabe
+13	githâhte	githaht	NOUN	_	Case=Acc|Number=Plur	9	appos	_	Gloss=Denken
+14	endi	endi	CCONJ	_	_	15	cc	_	Gloss=und
+15	thigun	dihan	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	Gloss=gedeihen
+16	aftar	aftar	ADV	_	_	15	advmod	_	Gloss=danach
+17	uuel	wel	ADV	_	_	15	advmod	_	Gloss=wohl|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = genesis.2.manual.41
+# text = Than quâmun eft fan Kaina kraftaga liudi, heliđos hardmuoda, habdun im hugi strangan, uurêđan uuillean, ni uueldun uualdandas lêra lêstian, ac habdun im lêđan strîd;
+1	Than	than	ADV	_	_	2	advmod	_	Gloss=jedoch
+2	quâmun	kuman	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=kommen
+3	eft	eft	ADV	_	_	2	advmod	_	Gloss=darauf
+4	fan	fan	ADP	_	_	5	case	_	Gloss=von
+5	Kaina	Kain	PROPN	_	Case=Dat|Number=Sing	2	obl	_	Gloss=Kain
+6	kraftaga	kraftag	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	Gloss=mächtig
+7	liudi	liudi	NOUN	_	Case=Nom|Number=Plur	2	nsubj	_	Gloss=Leute|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	heliđos	heliđ	NOUN	_	Case=Nom|Number=Plur	7	appos	_	Gloss=Held
+10	hardmuoda	hardmod	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	9	amod	_	Gloss=kühnen-Sinnes|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	habdun	hebbian	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=haben
+13	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Refl	12	obl	_	Gloss=er
+14	hugi	hugi	NOUN	_	Case=Acc|Number=Sing	12	obj	_	Gloss=Gemüt
+15	strangan	strang	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	Gloss=stark|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	uurêđan	wređ	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	Gloss=zornig
+18	uuillean	willio	NOUN	_	Case=Acc|Number=Sing	14	appos	_	Gloss=Gesinnung|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	ni	ne	PART	_	_	24	advmod	_	Gloss=nicht
+21	uueldun	willian	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	24	aux	_	Gloss=wollen
+22	uualdandas	waldand	NOUN	_	Case=Gen|Number=Sing	23	nmod	_	Gloss=Herrscher
+23	lêra	lera	NOUN	_	Case=Acc|Number=Sing	24	obj	_	Gloss=Lehre
+24	lêstian	lestian	VERB	_	VerbForm=Inf	12	conj	_	Gloss=befolgen|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	punct	_	_
+26	ac	ak	CCONJ	_	_	27	cc	_	Gloss=sondern
+27	habdun	hebbian	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	24	conj	_	Gloss=haben
+28	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Refl	27	obl	_	Gloss=er
+29	lêđan	leđ	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	Gloss=feindlich
+30	strîd	strid	NOUN	_	Case=Acc|Number=Sing	27	obj	_	Gloss=Widerstreben|SpaceAfter=No
+31	;	;	PUNCT	_	_	30	punct	_	_
+
+# sent_id = genesis.2.manual.42
+# text = uuohsun im uurisilîco:
+1	uuohsun	wahsan	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=wachsen
+2	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Refl	1	obl	_	Gloss=er
+3	uurisilîco	wrisiliko	ADV	_	_	1	advmod	_	Gloss=riesenmäßig|SpaceAfter=No
+4	:	:	PUNCT	_	_	3	punct	_	_
+
+# sent_id = genesis.2.manual.43
+# text = that uuas thiu uuirsa giburd, kuman fan Kaina.
+1	that	the	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	Gloss=der
+2	uuas	wesan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	Gloss=sein
+3	thiu	the	DET	_	Case=Nom|Definiteness=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	Gloss=der
+4	uuirsa	wirsa	ADJ	_	Case=Nom|Degree=Comp|Gender=Fem|Number=Sing	5	amod	_	Gloss=schlimmer
+5	giburd	giburd	NOUN	_	Case=Nom|Number=Sing	0	root	_	Gloss=Geburt|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	kuman	kuman	VERB	_	VerbForm=Part	5	xcomp	_	Gloss=kommen
+8	fan	fan	ADP	_	_	9	case	_	Gloss=von
+9	Kaina	Kain	PROPN	_	Case=Dat|Number=Sing	7	obl	_	Gloss=Kain|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = genesis.2.manual.44
+# text = Bigunnun im côpun thuo uueros uuîf undor+tuisk:
+1	Bigunnun	biginnan	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=beginnen
+2	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Refl	1	nsubj	_	Gloss=er
+3	côpun	kopon	VERB	_	VerbForm=Inf	1	xcomp	_	Gloss=erkaufen
+4	thuo	do	ADV	_	_	3	advmod	_	Gloss=nun
+5	uueros	wer	NOUN	_	Case=Nom|Number=Plur	3	nsubj	_	Gloss=Mann
+6	uuîf	wif	NOUN	_	Case=Acc|Number=Plur	3	obj	_	Gloss=Weib
+7	undor+tuisk	undartwisk	ADV	_	_	3	advmod	_	Gloss=untereinander|SpaceAfter=No
+8	:	:	PUNCT	_	_	7	punct	_	_
+
+# sent_id = genesis.2.manual.45
+# text = thas uuarđ auuerdit sân Seðas gesîđi, uuarð seggio folc mênu gimengið endi uuurðun manno barn, liudi lêða, them thit lioht giscuop, botan+that iro ên habda erlas gihugdi, theganlîca githâht;
+1	thas	the	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	Gloss=der
+2	uuarđ	werđan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	Gloss=werden
+3	auuerdit	awardian	VERB	_	VerbForm=Part	0	root	_	Gloss=verderben
+4	sân	san	ADV	_	_	3	advmod	_	Gloss=alsbald
+5	Seðas	Seđ	PROPN	_	Case=Gen|Number=Sing	6	nmod	_	Gloss=Seth
+6	gesîđi	gisiđi	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	Gloss=Familie|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	uuarð	werđan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	Gloss=werden
+9	seggio	seg	NOUN	_	Case=Gen|Number=Plur	12	nmod	_	Gloss=Mann
+10	folc	folk	NOUN	_	Case=Nom|Number=Sing	12	nsubj	_	Gloss=Volk
+11	mênu	men	NOUN	_	Case=Inst|Number=Sing	12	obl	_	Gloss=Frevel
+12	gimengið	mengian	VERB	_	VerbForm=Part	3	conj	_	Gloss=mischen
+13	endi	endi	CCONJ	_	_	24	cc	_	Gloss=und
+14	uuurðun	werđan	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	24	aux	_	Gloss=werden
+15	manno	mann	NOUN	_	Case=Gen|Number=Plur	16	nmod	_	Gloss=Mensch
+16	barn	barn	NOUN	_	Case=Nom|Number=Plur	24	nsubj	_	Gloss=Kind|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	liudi	liudi	NOUN	_	Case=Nom|Number=Plur	16	appos	_	Gloss=Leute
+19	lêða	leđ	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	18	amod	_	Gloss=verhaßt|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	them	the	PRON	_	Case=Dat|Definiteness=Def|Gender=Masc|Number=Sing|PronType=Dem	24	obl	_	Gloss=der
+22	thit	thesa	DET	_	Case=Acc|Definiteness=Def|Gender=Neut|Number=Sing|PronType=Dem	23	det	_	Gloss=dieser
+23	lioht	lioht	NOUN	_	Case=Acc|Number=Sing	24	obj	_	Gloss=Licht
+24	giscuop	giskeppian	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	conj	_	Gloss=schaffen|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	punct	_	_
+26	botan+that	biutan+that	SCONJ	_	_	29	mark	_	Gloss=außer-dass
+27	iro	he	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Pers	28	nmod	_	Gloss=er
+28	ên	en	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	29	nsubj	_	Gloss=ein
+29	habda	hebbian	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	advcl	_	Gloss=haben
+30	erlas	erl	NOUN	_	Case=Gen|Number=Sing	31	nmod	_	Gloss=der-bedeutende-Mann
+31	gihugdi	gihugd	NOUN	_	Case=Acc|Number=Plur	29	_	_	Gloss=Verstand|SpaceAfter=No
+32	,	,	PUNCT	_	_	31	punct	_	_
+33	theganlîca	theganlik	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	Gloss=männlich
+34	githâht	githaht	NOUN	_	Case=Acc|Number=Sing	31	appos	_	Gloss=Gedanke|SpaceAfter=No
+35	;	;	PUNCT	_	_	34	punct	_	_
+
+# sent_id = genesis.2.manual.46
+# text = uuas im githungin mann, uuîs endi uuordspâh, habda giuuitt mikil:
+1	uuas	wesan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	Gloss=sein
+2	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Refl	4	nsubj	_	Gloss=er
+3	githungin	githungan	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	Gloss=trefflich
+4	mann	mann	NOUN	_	Case=Nom|Number=Sing	0	root	_	Gloss=Mann|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	uuîs	wis	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	4	conj	_	Gloss=klug
+7	endi	endi	CCONJ	_	_	8	cc	_	Gloss=und
+8	uuordspâh	wordspah	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	4	conj	_	Gloss=redekundig|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	habda	hebbian	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	Gloss=haben
+11	giuuitt	giwit	NOUN	_	Case=Acc|Number=Sing	10	nsubj	_	Gloss=Verstand
+12	mikil	mikil	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	Gloss=groß|SpaceAfter=No
+13	:	:	PUNCT	_	_	12	punct	_	_
+
+# sent_id = genesis.2.manual.47
+# text = Enoch uuas hie hêtan.
+1	Enoch	Enoch	PROPN	_	Case=Nom|Number=Sing	4	xcomp	_	Gloss=Enoch
+2	uuas	wesan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	Gloss=sein
+3	hie	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	4	nsubj	_	Gloss=er
+4	hêtan	hetan	VERB	_	VerbForm=Part	0	root	_	Gloss=heißen|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = genesis.2.manual.48
+# text = Thie hier an erðu uuarð mannum te mârðum obar thesan middilgard, that ina hier sô quikana kuningo thie bezto, libbendian an is lîchaman, sô hie io an thesun liahta ni staraf - ac sô gihaloda ina hier heƀanas uualdand endi ina thar gisetta, thar hie simlon muot uuesan an uuunnion, untat ina eft an thesa uuerold sendit hêr heƀanas uuard heliðo barnum, liodiun te lêro.
+1	Thie	the	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	Gloss=der
+2	hier	her	ADV	_	_	5	advmod	_	Gloss=hier
+3	an	an	ADP	_	_	4	case	_	Gloss=an
+4	erðu	erđa	NOUN	_	Case=Dat|Number=Sing	5	obl	_	Gloss=Erde
+5	uuarð	werđan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=werden
+6	mannum	mann	NOUN	_	Case=Dat|Number=Plur	5	obl	_	Gloss=Mensch
+7	te	te	ADP	_	_	8	case	_	Gloss=zu
+8	mârðum	mariđa	NOUN	_	Case=Dat|Number=Plur	5	obl	_	Gloss=Kunde
+9	obar	obar	ADP	_	_	11	case	_	Gloss=über
+10	thesan	thesa	DET	_	Case=Acc|Definiteness=Def|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	Gloss=dieser
+11	middilgard	middilgard	NOUN	_	Case=Acc|Number=Sing	5	obl	_	Gloss=Erde|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	that	that	SCONJ	_	_	17	mark	_	Gloss=daß
+14	ina	he	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Pers	17	obj	_	Gloss=er
+15	hier	her	ADV	_	_	17	advmod	_	Gloss=hier
+16	sô	so	ADV	_	_	17	advmod	_	Gloss=so
+17	quikana	quik	ADJ	_	Case=Acc|Degree=Sup|Gender=Masc|Number=Sing	5	acl	_	Gloss=lebend
+18	kuningo	kuning	NOUN	_	Case=Gen|Number=Plur	20	nmod	_	Gloss=König
+19	thie	the	DET	_	Case=Nom|Definiteness=Def|Gender=Masc|Number=Sing|PronType=Dem	20	det	_	Gloss=der
+20	bezto	betst	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	17	nsubj	_	Gloss=best|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	libbendian	libbian	VERB	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Ger	17	conj	_	Gloss=leben
+23	an	an	ADP	_	_	25	case	_	Gloss=in
+24	is	he	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes	25	det	_	Gloss=er
+25	lîchaman	likhamo	NOUN	_	Case=Dat|Number=Sing	22	obl	_	Gloss=Körper|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	punct	_	_
+27	sô	so	SCONJ	_	_	34	mark	_	Gloss=ohne-dass
+28	hie	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	34	nsubj	_	Gloss=er
+29	io	io	ADV	_	_	34	advmod	_	Gloss=je
+30	an	an	ADP	_	_	32	case	_	Gloss=in
+31	thesun	thesa	DET	_	Case=Dat|Definiteness=Def|Gender=Neut|Number=Sing|PronType=Dem	32	det	_	Gloss=dieser
+32	liahta	lioht	NOUN	_	Case=Dat|Number=Sing	32	obl	_	Gloss=Licht
+33	ni	ne	PART	_	_	34	advmod	_	Gloss=nicht
+34	staraf	sterban	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	advcl	_	Gloss=sterben
+35	-	-	PUNCT	_	_	34	punct	_	_
+36	ac	ak	SCONJ	_	_	38	mark	_	Gloss=sondern
+37	sô	so	ADV	_	_	38	advmod	_	Gloss=so
+38	gihaloda	gihalon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	34	advcl	_	Gloss=holen
+39	ina	he	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Pers	38	obj	_	Gloss=er
+40	hier	her	ADV	_	_	38	advmod	_	Gloss=hier
+41	heƀanas	heban	NOUN	_	Case=Gen|Number=Sing	42	nmod	_	Gloss=Himmel
+42	uualdand	waldand	NOUN	_	Case=Nom|Number=Sing	38	nsubj	_	Gloss=Herrscher
+43	endi	endi	CCONJ	_	_	46	cc	_	Gloss=und
+44	ina	he	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Pers	46	obj	_	Gloss=er
+45	thar	thar	ADV	_	_	46	advmod	_	Gloss=da
+46	gisetta	gisettian	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	38	conj	_	Gloss=setzen|SpaceAfter=No
+47	,	,	PUNCT	_	_	46	punct	_	_
+48	thar	thar	SCONJ	_	PronType=Int	54	mark	_	Gloss=da
+49	hie	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	54	nsubj	_	Gloss=er
+50	simlon	simblon	ADV	_	_	54	advmod	_	Gloss=immer
+51	muot	motan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	54	aux	_	Gloss=können
+52	uuesan	wesan	AUX	_	VerbForm=Inf	54	cop	_	Gloss=sein
+53	an	an	ADP	_	_	54	case	_	Gloss=in
+54	uuunnion	wunnia	NOUN	_	Case=Dat|Number=Plur	46	advcl	_	Gloss=Wonne|SpaceAfter=No
+55	,	,	PUNCT	_	_	54	punct	_	_
+56	untat	untthat	SCONJ	_	_	62	mark	_	Gloss=bis-daß
+57	ina	he	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Pers	62	obj	_	Gloss=er
+58	eft	eft	ADV	_	_	62	advmod	_	Gloss=wieder
+59	an	an	ADP	_	_	61	case	_	Gloss=in
+60	thesa	thesa	DET	_	Case=Acc|Definiteness=Def|Gender=Fem|Number=Sing|PronType=Dem	61	det	_	Gloss=dieser
+61	uuerold	werold	NOUN	_	Case=Acc|Number=Sing	62	obl	_	Gloss=Welt
+62	sendit	sendian	VERB	_	Mood=Sbj|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	54	advcl	_	Gloss=senden
+63	hêr	her	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	65	amod	_	Gloss=hehr
+64	heƀanas	heban	NOUN	_	Case=Gen|Number=Sing	65	nmod	_	Gloss=Himmel
+65	uuard	ward	NOUN	_	Case=Nom|Number=Sing	62	nsubj	_	Gloss=Wart
+66	heliðo	heliđ	NOUN	_	Case=Gen|Number=Plur	67	nmod	_	Gloss=Held
+67	barnum	barn	NOUN	_	Case=Dat|Number=Plur	62	obl	_	Gloss=Kind|SpaceAfter=No
+68	,	,	PUNCT	_	_	67	punct	_	_
+69	liodiun	liudi	NOUN	_	Case=Dat|Number=Plur	67	appos	_	Gloss=Leute
+70	te	te	ADP	_	_	71	case	_	Gloss=zu
+71	lêro	lera	NOUN	_	Case=Dat|Number=Sing	62	obl	_	Gloss=Lehre|SpaceAfter=No
+72	.	.	PUNCT	_	_	71	punct	_	_
+
+# sent_id = genesis.2.manual.49
+# text = Than hier ôk thie lêđo kumit, that hier Antikrist alla thioda, uuerod auuerdit, than he mid uuâpnu scal uuerðan Enocha te banon, eggiun scarapun thuruh is handmegin;
+1	Than	than	ADV	_	_	6	advmod	_	Gloss=dann
+2	hier	her	ADV	_	_	6	advmod	_	Gloss=hierher
+3	ôk	ok	ADV	_	_	6	advmod	_	Gloss=auch
+4	thie	the	DET	_	Case=Nom|Definiteness=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	Gloss=der
+5	lêđo	leđ	NOUN	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	6	nsubj	_	Gloss=feindlich
+6	kumit	kuman	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=kommen|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	that	that	SCONJ	_	_	15	mark	_	Gloss=daß
+9	hier	her	ADV	_	_	15	advmod	_	Gloss=hier
+10	Antikrist	Antikrist	NOUN	_	Case=Nom|Number=Sing	15	nsubj	_	Gloss=Antikrist
+11	alla	all	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	11	det	_	Gloss=all
+12	thioda	thiod	NOUN	_	Case=Acc|Number=Sing	15	obj	_	Gloss=Volk|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	uuerod	werod	NOUN	_	Case=Acc|Number=Sing	12	appos	_	Gloss=Leute
+15	auuerdit	awardian	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	Gloss=verderben|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	than	than	ADV	_	_	22	advmod	_	Gloss=dann
+18	he	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Pers	22	nsubj	_	Gloss=er
+19	mid	mid	ADP	_	_	20	case	_	Gloss=mit
+20	uuâpnu	wapan	NOUN	_	Case=Inst|Number=Sing	22	obl	_	Gloss=Waffe
+21	scal	skulan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	Gloss=sollen
+22	uuerðan	werđan	AUX	_	VerbForm=Inf	15	advcl	_	Gloss=werden
+23	Enocha	Enoch	PROPN	_	Case=Dat|Number=Sing	22	obl	_	Gloss=Enoch
+24	te	te	ADP	_	_	22	case	_	Gloss=zu
+25	banon	bano	NOUN	_	Case=Dat|Number=Sing	22	obl	_	Gloss=Mörder|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	punct	_	_
+27	eggiun	eggia	NOUN	_	Case=Dat|Number=Plur	22	obl	_	Gloss=Schwert
+28	scarapun	skarp	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	27	amod	_	Gloss=scharf
+29	thuruh	thurh	ADP	_	_	31	case	_	Gloss=durch
+30	is	he	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes	31	det	_	Gloss=er
+31	handmegin	handmagan	NOUN	_	Case=Acc|Number=Sing	22	obl	_	Gloss=Kraft-der-Hände|SpaceAfter=No
+32	;	;	PUNCT	_	_	31	punct	_	_
+
+# sent_id = genesis.2.manual.50
+# text = huiriƀit thiu seola, thie gêst an guodan uueg, endi godas engil kumit, uurikit ina, uuammscaðon uuâpnas eggiun:
+1	huiriƀit	hwerban	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=sich-wohin-wenden
+2	thiu	the	DET	_	Case=Nom|Definiteness=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Gloss=der
+3	seola	seola	NOUN	_	Case=Nom|Number=Sing	1	nsubj	_	Gloss=Seele|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	thie	the	DET	_	Case=Nom|Definiteness=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	Gloss=der
+6	gêst	gest	NOUN	_	Case=Nom|Number=Sing	3	appos	_	Gloss=Geist
+7	an	an	ADP	_	_	9	case	_	Gloss=nach
+8	guodan	god	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	Gloss=gut
+9	uueg	weg	NOUN	_	Case=Acc|Number=Sing	1	obl	_	Gloss=Weg|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	endi	endi	CCONJ	_	_	14	cc	_	Gloss=und
+12	godas	god	PROPN	_	Case=Gen|Number=Sing	13	nmod	_	Gloss=Gott
+13	engil	engil	NOUN	_	Case=Nom|Number=Sing	14	nsubj	_	Gloss=Engel
+14	kumit	kuman	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	Gloss=kommen|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	uurikit	wrekan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	Gloss=vergelten
+17	ina	he	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Pers	16	obj	_	Gloss=er|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	uuammscaðon	wamskađo	NOUN	_	Case=Acc|Number=Sing	17	appos	_	Gloss=Frevler
+20	uuâpnas	wapan	NOUN	_	Case=Gen|Number=Sing	21	nmod	_	Gloss=Waffe
+21	eggiun	eggia	NOUN	_	Case=Dat|Number=Plur	16	obl	_	Gloss=Schneide|SpaceAfter=No
+22	:	:	PUNCT	_	_	21	punct	_	_
+
+# sent_id = genesis.2.manual.51
+# text = uuirðit Anticrist aldru bilôsid, thie fîund bifellid.
+1	uuirðit	werđan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=werden
+2	Anticrist	Antikrist	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	Gloss=Antikrist
+3	aldru	aldar	NOUN	_	Case=Inst|Number=Sing	4	obl	_	Gloss=Leben
+4	bilôsid	bilosian	VERB	_	VerbForm=Part	0	root	_	Gloss=loslösen|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	thie	the	DET	_	Case=Nom|Definiteness=Def|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	Gloss=der
+7	fîund	fiund	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	Gloss=der-Teufel
+8	bifellid	bifellian	VERB	_	VerbForm=Part	4	conj	_	Gloss=niederwerfen|SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = genesis.2.manual.52
+# text = Folc uuirðit eft gihuoroƀan te godas rîkea, gumuno gisîði langa huîla, endi stêd im sîđor thit land gisund.
+1	Folc	folk	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	Gloss=Volk
+2	uuirðit	werđan	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=werden
+3	eft	eft	ADV	_	_	4	advmod	_	Gloss=wieder
+4	gihuoroƀan	hwerban	VERB	_	VerbForm=Part	0	root	_	Gloss=sich-wohin-wenden
+5	te	te	ADP	_	_	7	case	_	Gloss=zu
+6	godas	god	PROPN	_	Case=Gen|Number=Sing	7	nmod	_	Gloss=Gott
+7	rîkea	riki	NOUN	_	Case=Dat|Number=Sing	4	obl	_	Gloss=Reich|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	gumuno	gumo	NOUN	_	Case=Gen|Number=Plur	10	nmod	_	Gloss=Mann
+10	gisîði	gisiđi	NOUN	_	Case=Nom|Number=Sing	1	appos	_	Gloss=Menschenvolk
+11	langa	lang	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	Gloss=lang
+12	huîla	hwila	NOUN	_	Case=Acc|Number=Sing	4	obl	_	Gloss=Zeit|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	endi	endi	CCONJ	_	_	15	cc	_	Gloss=und
+15	stêd	stan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	Gloss=stehen
+16	im	he	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Pers	15	obl	_	Gloss=er
+17	sîđor	siđor	ADV	_	_	15	advmod	_	Gloss=nachher
+18	thit	thesa	DET	_	Case=Nom|Definiteness=Def|Gender=Neut|Number=Sing|PronType=Dem	19	det	_	Gloss=dieser
+19	land	land	NOUN	_	Case=Nom|Number=Sing	15	nsubj	_	Gloss=Land
+20	gisund	gisund	ADJ	_	Degree=Pos	15	xcomp	_	Gloss=gesund|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	punct	_	_
+
